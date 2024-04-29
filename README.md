@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**dudinhabrazon/dudinhabrazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduarda Brazon
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](https://www.alura.com.br)
+- Estou me desenvoolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvoolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  eduardabrazonn@gmail.com
+  
+  00001114011071sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
+  
